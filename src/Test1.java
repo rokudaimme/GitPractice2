@@ -1,5 +1,8 @@
 public class Test1 {
     public static void main(String[] args) {
-     //   i love akica a
+adasddasasdasdsadsadsda
+        saddasdasdasads
+        qq
+        s
     }
 }
